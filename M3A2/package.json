@@ -1,0 +1,16 @@
+{
+  "name": "m3a2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devi Subadra Venkatesan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.3"
+  }
+}
